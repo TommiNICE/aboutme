@@ -1,4 +1,3 @@
-## Hello world und willkommen auf meiener Seite!
+## Hello world und willkommen auf meiner Seite!
 
-Ich heiße Tom(mmi) und bin Fachinformatiker für Systemintegration. Obwohl der Computer mein Wekrzeug mag ich es gar nicht zu tippen.
-
+Ich heiße Tom(mmi) und bin Fachinformatiker für Systemintegration.
