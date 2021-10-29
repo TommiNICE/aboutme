@@ -1,8 +1,4 @@
-## Hello world and welcome to my site!
+## Hello world und willkommen auf meiener Seite!
 
-My name is Tom(mi) and I am a Computer Science Expert. This is what at least is written on my diploma :)
-
-I have some knowledge in hacking, scripting in Python and Bash, but I am still a bloody beginner.
-
-
+Ich heiße Tom(mmi) und bin Fachinformatiker für Systemintegration.
 
